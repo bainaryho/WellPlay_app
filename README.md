@@ -60,7 +60,10 @@ Django & React
 <br><br>![글작성](https://github.com/likelion-backend-6th/WellPlay_app/assets/134459627/6a00aea7-7b5e-4796-aeb5-d9dceeac85bb)
 
 
-# 3.사용기술
+## 사이트 VIEW
+<img src="https://github.com/likelion-backend-6th/WellPlay_app/assets/90160898/dd908f75-590c-4427-9b22-5c120b3de38c">
+
+# 사용기술
 
 ### Back-end
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
